@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">OnlineShoppingApp</string>
+    <string name="error_invalid_email">Invalid email</string>
+    <string name="error_invalid_login_details">This email and password combination is incorrect</string>
+    <string name="log_in_button_text">LOG IN</string>
+    <string name="resend_verification_button">RESEND VERIFICATION EMAIL</string>
+    <string name="email_verification_sent">We have sent a verification email. Follow the instructions inside the email.</string>
+    <string name="next_button">NEXT</string>
+    <string name="empty_password">Please enter a password</string>
+    <string name="create_account_hint">Don\'t have an account?</string>
+    <string name="password">PASSWORD</string>
+    <string name="enter_email">ENTER YOUR EMAIL</string>
+    <string name="choose_password">CHOOSE A PASSWORD</string>
+    <string name="reenter_password">REENTER PASSWORD</string>
+    <string name="password_match">PASSWORDS MUST MATCH</string>
+    <string name="no_password">PLEASE ENTER A PASSWORD</string>
+    <string name="new_releases">NEW RELEASES</string>
+    <string name="profile_created">We have created your profile</string>
+    <string name="error_create_account">Error..We were unable to create an account</string>
+    <string name="search_hint">Search movies</string>
+    <string name="error_no_result">NO RESULTS FOR YOUR SEARCH</string>
+    <string name="change_email">CHANGE EMAIL</string>
+    <string name="email">EMAIL : </string>
+    <string name="nickname">NICKNAME : </string>
+    <string name="error_no_nickname">Please enter a nickname.</string>
+    <string name="change_nickname">CHANGE NICKNAME</string>
+    <string name="change_profile_picture">CHANGE PROFILE PICTURE</string>
+    <string name="change_password">CHANGE PASSWORD</string>
+    <string name="finish">FINISH</string>
+    <string name="new_email">NEW EMAIL</string>
+    <string name="new_password">NEW PASSWORD</string>
+    <string name="confirm_new_password">CONFIRM NEW PASSWORD</string>
+    <string name="new_nickname">NEW NICKNAME</string>
+    <string name="change_email_title">CHANGE EMAIL</string>
+    <string name="change_password_title">CHANGE PASSWORD</string>
+    <string name="change_nickname_title">CHANGE NICKNAME</string>
+    <string name="error_invalid_nickname">Invalid nickname</string>
+    <string name="operation_successful">We have successfully changed your profile details.</string>
+    <string name="operation_unsuccessful">Something has gone wrong.We were unable to update your profile details</string>
+    <string name="no_internet_connection">No internet connection ...Please connect.</string>
+    <string name="please_connect">There is no internet connection.Connect in order to use all the features.</string>
+    <string name="resend_verification_email">Resend email</string>
+    <string name="enter_nickname">ENTER NICKNAME</string>
+    <string name="cancel">CANCEL</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="scan_qr_text">Touch to scan</string>
+    <string name="search_title">Search a product</string>
+    <string name="try_again">Try again</string>
+
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="create_account_screen">CREATE YOUR ACCOUNT</string>
+    <string name="home">Home</string>
+
+</resources>

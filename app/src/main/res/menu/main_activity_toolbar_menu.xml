@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/scan_qr_text"
+        android:icon="@drawable/ic_photo_camera_white_24dp"
+        android:id="@+id/open_camera_icon_menu"
+        app:showAsAction="always"
+        />
+    <item android:id="@+id/search_icon_menu"
+        android:title="@string/search_title"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+
+        />
+</menu>

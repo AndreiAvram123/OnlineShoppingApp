@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549227317351",
+    "firebase_url": "https://fir-app-1d7d7.firebaseio.com",
+    "project_id": "fir-app-1d7d7",
+    "storage_bucket": "fir-app-1d7d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549227317351:android:5cda0e4211d27bfe",
+        "android_client_info": {
+          "package_name": "com.example.onlineshoopingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549227317351-cicrrjqjo6fi76e9kise3c0990le1est.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.onlineshoopingapp",
+            "certificate_hash": "64110f44fad6aa24748be6e7b95bdf1ee94e4bd4"
+          }
+        },
+        {
+          "client_id": "549227317351-222rf0ncc7akst52gnhpdea2v1dpoakv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDezC4_9FIveSl93XPAUYFaHjp1HSqwBug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549227317351-222rf0ncc7akst52gnhpdea2v1dpoakv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

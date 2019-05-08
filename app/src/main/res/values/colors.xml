@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#05AFF2</color>
+    <color name="colorPrimaryDark">#FFF3F3</color>
+    <color name ="windowBackground">#FFF3F3</color>
+    <color name ="windowBackgroundSecondary">#FFFFFF</color>
+    <color name="colorAccent">#000000</color>
+
+
+    <color name="colorAccentButton">#ffffff</color>
+    <color name ="colorPrimaryComplement">#F4460D</color>
+    <color name ="colorElementDisabled">#A9ACB1</color>
+</resources>
